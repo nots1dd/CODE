@@ -349,7 +349,7 @@ elif scene_1 == "leave":
 
             elif amulet_sell == "no":
                 print("")
-                print("You chose to keep the AMULET. People are fucking pissed at you.")
+                print("You chose to keep the AMULET. People are pissed at you.")
                 balance += 0
                 print(f"Your balance is now = {balance}.")
                 print("")
